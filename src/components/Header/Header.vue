@@ -105,7 +105,12 @@ body {
 
 .strikeout {
   color: #B8BEC3FF;
+  cursor: pointer;
   font-size: 18px;
   text-decoration: line-through;
+}
+
+.tatic-class {
+  cursor: pointer;
 }
 </style>
