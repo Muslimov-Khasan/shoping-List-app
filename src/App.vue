@@ -5,6 +5,3 @@ import Header from "./components/Header/Header.vue";
 <template>
   <Header />
 </template>
-
-
-
